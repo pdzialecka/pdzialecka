@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Further software release coming up soon (pending approval from patent attorneys)
+
 <!--
 **pdzialecka/pdzialecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
